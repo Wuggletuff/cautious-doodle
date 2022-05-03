@@ -1,4 +1,3 @@
 # cautious-doodle
 
-#This is my first project in Python Pandas, I followed two youtube tutorials.
-#All my code currently is following the second tutorial, and answering questions about the data asked in that video.
+Analysis of 12 months of fictional Sales Data of a fictional store "Steve's Cool Electronics". Contains graphical analyses of questions about the data. all analysis has been done using the Python Pandas library, and graphing with the MyPlotLib library.
